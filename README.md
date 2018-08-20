@@ -10,4 +10,4 @@ Nombres de integrantes del grupo:
 - Nicolás Lopez Nieto 20171020066
 - Daniel Santiago Rubiano Pulido 20171020075
 
-El archivo ** es el diagrama de clases del proyecto
+El diagrama de clases del proyecto se encuentra como un png con el nombre "Diagrama Uml-EjercicioBanda"
